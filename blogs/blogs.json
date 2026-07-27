@@ -1,0 +1,14 @@
+{
+  "repo": "fubotv",
+  "feeds": [
+    {
+      "source": "https://support.fubo.tv/hc",
+      "feed_url": "https://support.fubo.tv/hc",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}

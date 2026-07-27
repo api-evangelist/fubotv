@@ -1,0 +1,22 @@
+generated: '2026-07-19'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.fubo.tv
+  https: true
+  tls_version: TLSv1.2
+  cert_expires: Mar 22 21:10:24 2027 GMT
+  hsts: false
+domains:
+- domain: fubo.tv
+  dnssec: false
+  caa:
+  - 0 issuewild "globalsign.com"
+  - 0 issuewild "google.com"
+  - 0 issuewild "googlehosted.com"
+  - 0 issuewild "letsencrypt.org"
+  - 0 issuewild "pki.goog"
+  - 0 iodef "mailto:infra@fubo.tv"
+  spf: true
+  dmarc: true
+  dmarc_policy: none
