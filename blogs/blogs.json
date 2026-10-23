@@ -5,7 +5,7 @@
       "source": "https://www.fubo.tv/news/feed/",
       "feed_url": "https://www.fubo.tv/news/feed/",
       "title": "",
-      "saved": 10,
+      "saved": 2,
       "method": "feed"
     },
     {
@@ -14,14 +14,8 @@
       "title": "",
       "saved": 0,
       "method": "discovered"
-    },
-    {
-      "source": "https://support.fubo.tv/hc",
-      "feed_url": "",
-      "saved": 0,
-      "skipped": "community-shaped; a vendor feed already saved this run (roadmap#239)"
     }
   ],
-  "post_count": 10,
-  "fetched": "2026-10-10T13:15:00Z"
+  "post_count": 22,
+  "fetched": "2026-10-17T14:53:57Z"
 }
